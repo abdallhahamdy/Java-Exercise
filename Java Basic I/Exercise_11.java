@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Exercise11 {
+public class Exercise_11 {
 
     // Define a constant for the radius of the circle
     private static final double radius = 7.5;
