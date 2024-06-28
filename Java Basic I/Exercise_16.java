@@ -1,4 +1,4 @@
-public class Exercise_17 {
+public class Exercise_16 {
     public static void main(String[] args) {
 
         // Display a pattern to create an ASCII art representation of a simple face
