@@ -1,4 +1,4 @@
-package Encapsulation;
+package Encapsulation.Exercise_1;
 
 // Person.java
 // Person Class
